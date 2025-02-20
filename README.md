@@ -105,15 +105,6 @@ This magical project is under the MIT License - spread the magic! ✨
 
 - 📧 Email: pallavikumariagrawal8651@gmail.com
 
-## 🌟 Wall of Fame
-
-Special thanks to our magical contributors:
-- 🧙‍♂️ Our amazing dev team
-- 🔮 Our wonderful beta testers
-- ⭐ Our fantastic community
-
----
-
 <div align="center">
 
 ### 🌟 Star us on GitHub! 
