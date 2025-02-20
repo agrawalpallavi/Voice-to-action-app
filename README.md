@@ -95,4 +95,4 @@ This project is licensed under the *MIT License*.
 ---
 
 *⭐ Don't forget to star the repo if you like it! ⭐*  
-[![GitHub stars](https://img.shields.io/github/stars/agrawalpallavi/EchoTalk?style=social)](https://github.com/agrawalpallavi/EchoTalk)
+Made by Pallavi Kumari Agrawal
