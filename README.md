@@ -67,8 +67,7 @@ Drive Link: https://drive.google.com/file/d/1lbiOV4_NsgWz3ULWjXJ5TVEtxmdecHL6/vi
 - Install *Node.js* & *Expo CLI*
 - Clone the repository:
   sh
-  git clone https://github.com/agrawalpallavi/EchoTalk.git
-  cd EchoTalk
+  git clone https://github.com/agrawalpallavi/EchoTalk.gitcd EchoTalk
   
 - Install dependencies:
   sh
